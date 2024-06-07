@@ -2,7 +2,7 @@
 
 meu nome e puga
 
-estou estudando no alura
+estou estudando no [Alura](https://www.alura.com.br)
 estou me desenvolvendo na linguagem javascript
 utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos 
 
